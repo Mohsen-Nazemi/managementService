@@ -1,0 +1,12 @@
+{
+  "moduleType": "project",
+  "name": "uploadTest",
+  "main": "./index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "q": "^1.5.1",
+    "partFramework": ">=8.4.2 <9.0.0",
+    "partUtilities": ">=3.24.2 <4.0.0",
+    "partLogger": ">=3.2.1 <4.0.0"
+  }
+}
