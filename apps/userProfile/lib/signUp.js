@@ -149,10 +149,10 @@ async function callSamad(username) {
     }
 
 
-    function assignUsersToRole() {
+    function assignUsersToRole(username) {
         var data = JSON.stringify({
             "org": "intern_4",
-            "roleName": "visitor",
+            "roleName": "employer",
             "users": [
                 username
             ]
